@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-lazytube": "^1.0.2",
+    "vue-youtube-embed": "^2.2.2"
+  }
+}
